@@ -8,12 +8,17 @@ contributor:
     - Waddy, F.
     gutenberg_agent_id: '43007'
     url: http://www.gutenberg.org/2009/agents/43007
+covers:
+- cover_type: archival
+  image_path: 66712-h/images/cover.jpg
 creator:
   author:
     agent_name: Nesbitt, M. L.
     gutenberg_agent_id: '53929'
     url: http://www.gutenberg.org/2009/agents/53929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66712#Grammar-land-Grammar-in-Fun-for-the-Children-of-Schoolroom-shire
 gutenberg_issued: '2021-11-12'
 identifiers:
   gutenberg: '66712'
